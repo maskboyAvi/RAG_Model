@@ -1,0 +1,101 @@
+outage_id,network_area,outage_start,outage_end,cause,affected_customers,equipment_age,maintenance_history,weather_conditions,traffic_load
+001,Suburbs,3/18/2025 17:00,3/18/2025 20:00,Equipment failure,441,2 years,Regular,Windy,Medium
+002,Suburbs,3/9/2025 17:00,3/9/2025 19:00,External disruption,408,3 years,Regular,Rain,High
+003,Suburbs,3/25/2025 8:00,3/25/2025 9:00,Equipment failure,477,9 years,Irregular,Clear,Medium
+004,Uptown,3/9/2025 4:00,3/9/2025 6:00,Equipment failure,595,2 years,Regular,Rain,Medium
+005,Uptown,3/30/2025 20:00,3/30/2025 21:00,Maintenance,423,7 years,Irregular,Clear,Medium
+006,Uptown,3/28/2025 22:00,3/29/2025 1:00,Maintenance,571,9 years,Regular,Clear,Low
+007,Downtown,3/3/2025 9:00,3/3/2025 10:00,Equipment failure,217,6 years,Irregular,Windy,High
+008,Downtown,3/1/2025 18:00,3/1/2025 19:00,External disruption,421,9 years,Regular,Windy,Low
+009,Suburbs,3/26/2025 19:00,3/26/2025 22:00,External disruption,356,4 years,Irregular,Rain,Medium
+010,Suburbs,3/11/2025 9:00,3/11/2025 11:00,Maintenance,466,6 years,Regular,Rain,Low
+011,Uptown,3/18/2025 21:00,3/18/2025 22:00,Maintenance,282,2 years,Regular,Snow,High
+012,Suburbs,3/18/2025 9:00,3/18/2025 11:00,Equipment failure,325,5 years,Irregular,Snow,Medium
+013,Uptown,3/23/2025 23:00,3/24/2025 2:00,Maintenance,580,8 years,Irregular,Rain,Medium
+014,Suburbs,3/27/2025 6:00,3/27/2025 7:00,External disruption,245,3 years,Regular,Snow,High
+015,Uptown,3/12/2025 6:00,3/12/2025 7:00,External disruption,289,9 years,Irregular,Snow,Low
+016,Suburbs,3/20/2025 13:00,3/20/2025 14:00,Maintenance,470,4 years,Regular,Windy,Medium
+017,Uptown,3/24/2025 16:00,3/24/2025 19:00,Maintenance,508,2 years,Irregular,Clear,Low
+018,Uptown,3/7/2025 12:00,3/7/2025 13:00,Equipment failure,230,2 years,Regular,Windy,High
+019,Suburbs,3/17/2025 4:00,3/17/2025 6:00,Equipment failure,446,5 years,Irregular,Snow,High
+020,Suburbs,3/22/2025 13:00,3/22/2025 16:00,External disruption,564,2 years,Irregular,Clear,Low
+021,Downtown,3/8/2025 23:00,3/9/2025 0:00,Equipment failure,550,10 years,Irregular,Rain,Low
+022,Suburbs,3/27/2025 13:00,3/27/2025 14:00,Maintenance,530,4 years,Regular,Windy,High
+023,Uptown,3/21/2025 13:00,3/21/2025 14:00,External disruption,327,7 years,Irregular,Snow,Low
+024,Uptown,3/12/2025 16:00,3/12/2025 19:00,Maintenance,362,10 years,Regular,Rain,High
+025,Suburbs,3/1/2025 8:00,3/1/2025 9:00,External disruption,586,7 years,Irregular,Clear,High
+026,Uptown,3/16/2025 13:00,3/16/2025 14:00,Equipment failure,394,10 years,Irregular,Windy,Medium
+027,Uptown,3/6/2025 7:00,3/6/2025 9:00,Equipment failure,249,6 years,Regular,Rain,Medium
+028,Suburbs,3/26/2025 22:00,3/27/2025 1:00,External disruption,451,2 years,Regular,Rain,High
+029,Downtown,3/2/2025 9:00,3/2/2025 10:00,External disruption,260,10 years,Regular,Windy,Medium
+030,Suburbs,3/1/2025 11:00,3/1/2025 14:00,Equipment failure,413,7 years,Irregular,Snow,Medium
+031,Downtown,3/9/2025 8:00,3/9/2025 10:00,Equipment failure,529,9 years,Regular,Windy,High
+032,Suburbs,3/12/2025 21:00,3/12/2025 23:00,External disruption,255,6 years,Regular,Rain,Low
+033,Suburbs,3/18/2025 23:00,3/19/2025 2:00,External disruption,592,3 years,Regular,Snow,Medium
+034,Downtown,3/15/2025 7:00,3/15/2025 9:00,External disruption,232,3 years,Regular,Rain,Low
+035,Downtown,3/6/2025 20:00,3/6/2025 21:00,Maintenance,543,3 years,Irregular,Rain,Medium
+036,Suburbs,3/4/2025 20:00,3/4/2025 21:00,Maintenance,380,4 years,Irregular,Windy,Medium
+037,Uptown,3/3/2025 15:00,3/3/2025 17:00,Equipment failure,481,3 years,Regular,Snow,Low
+038,Uptown,3/30/2025 0:00,3/30/2025 1:00,External disruption,345,3 years,Regular,Clear,High
+039,Downtown,3/12/2025 20:00,3/12/2025 22:00,Maintenance,353,7 years,Regular,Snow,Medium
+040,Uptown,3/13/2025 6:00,3/13/2025 8:00,External disruption,206,10 years,Regular,Rain,Low
+041,Uptown,3/5/2025 20:00,3/5/2025 22:00,Equipment failure,368,7 years,Regular,Windy,High
+042,Downtown,3/3/2025 14:00,3/3/2025 16:00,External disruption,265,8 years,Irregular,Windy,Medium
+043,Uptown,3/3/2025 7:00,3/3/2025 9:00,External disruption,208,1 years,Irregular,Snow,Low
+044,Suburbs,3/10/2025 11:00,3/10/2025 12:00,Maintenance,522,2 years,Irregular,Windy,Low
+045,Uptown,3/11/2025 2:00,3/11/2025 3:00,Maintenance,571,8 years,Irregular,Rain,Low
+046,Suburbs,3/12/2025 21:00,3/12/2025 23:00,Equipment failure,372,6 years,Regular,Windy,Medium
+047,Uptown,3/1/2025 15:00,3/1/2025 16:00,External disruption,546,5 years,Regular,Snow,High
+048,Downtown,3/9/2025 20:00,3/9/2025 23:00,Maintenance,440,4 years,Irregular,Rain,Low
+049,Suburbs,3/6/2025 17:00,3/6/2025 20:00,Maintenance,538,2 years,Regular,Clear,Medium
+050,Uptown,3/1/2025 1:00,3/1/2025 4:00,External disruption,352,3 years,Irregular,Snow,Low
+051,Uptown,3/24/2025 12:00,3/24/2025 13:00,External disruption,395,3 years,Regular,Clear,Low
+052,Suburbs,3/11/2025 20:00,3/11/2025 23:00,Maintenance,520,5 years,Regular,Clear,Low
+053,Suburbs,3/24/2025 5:00,3/24/2025 7:00,Equipment failure,595,5 years,Regular,Rain,High
+054,Suburbs,3/30/2025 3:00,3/30/2025 4:00,External disruption,468,9 years,Irregular,Clear,Low
+055,Suburbs,3/29/2025 22:00,3/29/2025 23:00,External disruption,384,7 years,Regular,Windy,Medium
+056,Downtown,3/21/2025 0:00,3/21/2025 3:00,Equipment failure,313,1 years,Regular,Clear,High
+057,Suburbs,3/24/2025 15:00,3/24/2025 16:00,Equipment failure,254,4 years,Irregular,Snow,Medium
+058,Downtown,3/3/2025 19:00,3/3/2025 20:00,Equipment failure,242,4 years,Irregular,Rain,Low
+059,Suburbs,3/10/2025 1:00,3/10/2025 4:00,Maintenance,499,7 years,Regular,Rain,Medium
+060,Downtown,3/27/2025 3:00,3/27/2025 6:00,Maintenance,587,10 years,Irregular,Rain,Medium
+061,Uptown,3/21/2025 20:00,3/21/2025 21:00,Maintenance,373,9 years,Irregular,Rain,Medium
+062,Suburbs,3/11/2025 2:00,3/11/2025 3:00,Maintenance,431,10 years,Irregular,Rain,Low
+063,Downtown,3/19/2025 9:00,3/19/2025 11:00,External disruption,266,3 years,Irregular,Windy,High
+064,Downtown,3/11/2025 7:00,3/11/2025 9:00,Equipment failure,379,4 years,Irregular,Windy,High
+065,Uptown,3/16/2025 21:00,3/16/2025 23:00,Equipment failure,467,4 years,Regular,Rain,Medium
+066,Uptown,3/27/2025 16:00,3/27/2025 18:00,External disruption,543,8 years,Irregular,Rain,Medium
+067,Uptown,3/13/2025 9:00,3/13/2025 12:00,Maintenance,350,6 years,Regular,Rain,Low
+068,Downtown,3/10/2025 12:00,3/10/2025 15:00,External disruption,565,8 years,Irregular,Snow,Medium
+069,Suburbs,3/12/2025 10:00,3/12/2025 12:00,Equipment failure,394,6 years,Irregular,Rain,High
+070,Uptown,3/31/2025 23:00,4/1/2025 1:00,Maintenance,231,9 years,Irregular,Snow,Medium
+071,Uptown,3/16/2025 17:00,3/16/2025 20:00,External disruption,554,10 years,Irregular,Rain,High
+072,Downtown,3/4/2025 14:00,3/4/2025 16:00,External disruption,480,1 years,Irregular,Clear,Medium
+073,Suburbs,3/29/2025 3:00,3/29/2025 4:00,Equipment failure,481,3 years,Irregular,Snow,Medium
+074,Downtown,3/27/2025 17:00,3/27/2025 19:00,Maintenance,228,3 years,Regular,Rain,High
+075,Downtown,3/30/2025 14:00,3/30/2025 15:00,Maintenance,220,1 years,Regular,Windy,Medium
+076,Uptown,3/24/2025 21:00,3/24/2025 23:00,Equipment failure,247,2 years,Regular,Clear,High
+077,Uptown,3/6/2025 11:00,3/6/2025 13:00,Maintenance,453,1 years,Regular,Windy,High
+078,Uptown,3/14/2025 7:00,3/14/2025 10:00,Maintenance,545,8 years,Regular,Windy,Low
+079,Suburbs,3/26/2025 12:00,3/26/2025 14:00,Maintenance,298,4 years,Irregular,Snow,Medium
+080,Uptown,3/8/2025 15:00,3/8/2025 17:00,Maintenance,478,4 years,Regular,Rain,Medium
+081,Uptown,3/25/2025 10:00,3/25/2025 11:00,External disruption,272,2 years,Irregular,Windy,Medium
+082,Uptown,3/22/2025 7:00,3/22/2025 9:00,External disruption,240,9 years,Regular,Windy,Low
+083,Suburbs,3/26/2025 15:00,3/26/2025 18:00,External disruption,462,4 years,Regular,Snow,Medium
+084,Downtown,3/3/2025 4:00,3/3/2025 5:00,Equipment failure,542,7 years,Regular,Clear,Medium
+085,Uptown,3/28/2025 6:00,3/28/2025 9:00,External disruption,436,3 years,Regular,Clear,High
+086,Suburbs,3/24/2025 9:00,3/24/2025 11:00,Equipment failure,476,6 years,Regular,Windy,Medium
+087,Suburbs,3/6/2025 20:00,3/6/2025 23:00,Maintenance,422,5 years,Irregular,Clear,High
+088,Suburbs,3/29/2025 16:00,3/29/2025 17:00,Equipment failure,328,9 years,Regular,Snow,Low
+089,Downtown,3/17/2025 4:00,3/17/2025 6:00,External disruption,351,6 years,Regular,Rain,Low
+090,Downtown,3/7/2025 11:00,3/7/2025 13:00,Maintenance,586,2 years,Regular,Clear,Low
+091,Uptown,3/2/2025 5:00,3/2/2025 6:00,External disruption,518,8 years,Irregular,Clear,High
+092,Downtown,3/25/2025 14:00,3/25/2025 16:00,Maintenance,365,9 years,Regular,Snow,Medium
+093,Suburbs,3/15/2025 14:00,3/15/2025 17:00,Maintenance,439,1 years,Regular,Snow,Medium
+094,Suburbs,3/29/2025 9:00,3/29/2025 12:00,External disruption,553,10 years,Regular,Clear,Low
+095,Suburbs,3/30/2025 16:00,3/30/2025 18:00,Maintenance,288,5 years,Irregular,Windy,Medium
+096,Suburbs,3/29/2025 3:00,3/29/2025 4:00,External disruption,598,8 years,Regular,Snow,High
+097,Downtown,3/4/2025 16:00,3/4/2025 17:00,External disruption,318,7 years,Irregular,Windy,High
+098,Downtown,3/6/2025 0:00,3/6/2025 3:00,Equipment failure,557,1 years,Regular,Snow,High
+099,Downtown,3/21/2025 8:00,3/21/2025 10:00,External disruption,390,2 years,Irregular,Clear,Low
+100,Suburbs,3/18/2025 11:00,3/18/2025 13:00,Equipment failure,288,7 years,Regular,Windy,Low
